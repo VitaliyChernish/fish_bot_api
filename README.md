@@ -1,9 +1,18 @@
-Weather api for fishing
+# Weather api for fishing
 
-Data collection:
+##Cities:
+
+all ukrainian oblast
+
+### Data collection:
 
 Data collection is automatic, by default the frequency of data collection is 2 hours.
 
-What data is collected:
+### What data is collected:
+preasure
 
-# preasure
+wother temp
+
+wind temp
+
+wind speed
