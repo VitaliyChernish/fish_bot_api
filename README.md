@@ -27,7 +27,7 @@ wind speed
 
 
 ## cities:
-    <li>cherkaska</li>
+    cherkaska
     chernihivska
     chernivecka
     dnipropetrovska
