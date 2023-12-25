@@ -16,7 +16,7 @@ wother temp
 wind temp
 
 wind speed
-___
+
 ## api:
 
 `your-site/api/regions/getOneRegions/city`
