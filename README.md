@@ -24,3 +24,30 @@ wind speed
 `your-site/api/regions/getOneWoterTemp/city`
 
 `your-site/api/regions/getOnePressure/city`
+
+
+## cities:
+    <li>cherkaska</li>
+    chernihivska
+    chernivecka
+    dnipropetrovska
+    donetska
+    frankivska
+    kharkivska
+    khersonska
+    khmelnitska
+    kiivska
+    kirovogradska
+    luganskaya
+    lvivska
+    mykolaivskaya
+    odeska
+    poltavska
+    rivnenska
+    symska
+    ternopilska
+    vinnitska
+    volunska
+    zakarpatska
+    zaporizka
+    zhytomirska
