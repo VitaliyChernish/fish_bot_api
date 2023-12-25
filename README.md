@@ -1,9 +1,5 @@
 # Weather api for fishing
 
-## Cities:
-
-all ukrainian oblast
-
 ### Data collection:
 
 Data collection is automatic, by default the frequency of data collection is 2 hours.
@@ -17,7 +13,7 @@ wind temp
 
 wind speed
 
-## api:
+## Api:
 
 `your-site/api/regions/getOneRegions/city`
 
@@ -26,7 +22,7 @@ wind speed
 `your-site/api/regions/getOnePressure/city`
 
 
-## cities:
+## Cities:
     cherkaska
     chernihivska
     chernivecka
