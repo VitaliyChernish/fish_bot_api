@@ -20,5 +20,7 @@ ___
 ## api:
 
 your-site/api/regions/getOneRegions/city
+
 your-site/api/regions/getOneWoterTemp/city
+
 your-site/api/regions/getOnePressure/city
